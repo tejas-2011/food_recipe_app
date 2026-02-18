@@ -25,12 +25,6 @@ A modern Flutter application that helps users discover delicious recipes based o
 
 ---
 
-## 📱 Screenshots
-
-*(Add your app screenshots here)*
-
----
-
 ## 🛠️ Technology Stack
 
 | Category | Technology |
